@@ -1,0 +1,86 @@
+ngram_type,keyword,score
+unigram,use,0.032316
+unigram,test,0.027851
+unigram,package,0.027398
+unigram,upgrade,0.027022
+unigram,file,0.019011
+unigram,version,0.018826
+unigram,need,0.018216
+unigram,like,0.017798
+unigram,class,0.017697
+unigram,dependency,0.016123
+unigram,remove,0.015781
+unigram,place,0.015391
+unigram,old,0.015057
+unigram,add,0.014842
+unigram,new,0.013958
+unigram,think,0.013587
+unigram,patch,0.013081
+unigram,instead,0.012895
+unigram,let,0.012825
+unigram,build,0.012717
+unigram,moved,0.012715
+unigram,refactor,0.012602
+unigram,delete,0.012433
+unigram,rest,0.012152
+unigram,depend,0.011949
+unigram,library,0.011811
+unigram,break,0.01169
+unigram,missing,0.01153
+unigram,latest,0.011315
+unigram,change,0.011255
+unigram,dangerous,0.011111
+unigram,multiple,0.010938
+unigram,wrong,0.010789
+unigram,solution,0.010701
+unigram,places,0.010677
+unigram,decouple,0.010598
+bigram,dangerous upgrade,0.014494
+bigram,test depend,0.014494
+bigram,upgrade modern,0.014494
+bigram,place file,0.012405
+bigram,break multiple,0.012405
+bigram,multiple file,0.010129
+bigram,rest api,0.010129
+bigram,file wrong,0.010129
+bigram,package place,0.010129
+bigram,wrong place,0.010129
+bigram,need make,0.010129
+bigram,code use,0.009798
+bigram,let relocate,0.008772
+bigram,test let,0.008772
+bigram,use test,0.008445
+bigram,client package,0.007846
+bigram,classes client,0.007846
+bigram,client classes,0.007846
+bigram,tests depend,0.007846
+bigram,let relocate,0.007846
+bigram,break jobs,0.007181
+bigram,multiple files,0.007115
+bigram,wrong place,0.006736
+bigram,dependencies longer,0.006631
+trigram,break multiple file,0.006631
+trigram,build place file,0.006631
+trigram,place file instead,0.006631
+trigram,code use test,0.006631
+trigram,file wrong place,0.006631
+trigram,package place file,0.006631
+trigram,place file wrong,0.006503
+trigram,test let relocate,0.00645
+trigram,use test let,0.006203
+trigram,dependency longer need,0.006203
+trigram,like upgrade lose,0.006203
+trigram,lose stuff dependency,0.006203
+trigram,stuff dependency longer,0.006203
+trigram,upgrade lose stuff,0.006203
+trigram,backup test fully,0.006203
+trigram,classes client package,0.006203
+trigram,used tests let,0.005973
+trigram,tests let relocate,0.005973
+trigram,files wrong place,0.005957
+trigram,placing files wrong,0.005957
+trigram,package placing files,0.005955
+trigram,stuff dependencies longer,0.005888
+trigram,dependencies longer needed,0.005848
+trigram,used places including,0.005848
+trigram,api used places,0.005848

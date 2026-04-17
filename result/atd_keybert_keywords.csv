@@ -1,0 +1,92 @@
+ngram_type,keyword,KeyBERT_score
+unigram,move,0.785799517028888
+unigram,could,0.581012033002878
+unigram,test,0.570242308797929
+unigram,version,0.55499671869447
+unigram,package,0.539669167061054
+unigram,dependency,0.536366952867971
+unigram,upgrade,0.536296012948752
+unigram,class,0.529560813192402
+unigram,use,0.525443740629989
+unigram,also,0.523073640053065
+unigram,need,0.521920602002021
+unigram,like,0.518471439968372
+unigram,api,0.513229353015902
+unigram,build,0.511684280734124
+unigram,library,0.511214322416699
+unigram,separate,0.510399555221917
+unigram,refactor,0.510262577199275
+unigram,deprecated,0.508607279358564
+unigram,decouple,0.505006378340866
+unigram,implementation,0.504190514068274
+unigram,broker,0.503805152433983
+unigram,cluster,0.503215377007014
+unigram,transaction,0.500942793775629
+unigram,outdated,0.495990733884148
+unigram,performance,0.491834032100073
+unigram,avoid,0.490733665569597
+unigram,lock,0.490344949240533
+unigram,longer,0.490175228505814
+unigram,access,0.488563615702186
+unigram,depend,0.487833457382165
+unigram,lose,0.487120230075349
+unigram,mode,0.484226713449292
+unigram,adapter,0.483926352911119
+unigram,exception,0.483621706872707
+bigram,use late,0.606815220460032
+bigram,get rid,0.602842362694955
+bigram,rest api,0.579017840769325
+bigram,year old,0.579017840769325
+bigram,move client,0.563702138859295
+bigram,client package,0.551195444420392
+bigram,class client,0.551195444420392
+bigram,next release,0.551195444420392
+bigram,build mvc,0.546641526214091
+bigram,place file,0.539394189115524
+bigram,library improvement,0.533884332255399
+bigram,late library,0.528182025998753
+bigram,could upgrade,0.525230758924932
+bigram,class loading,0.525230758924932
+bigram,upgrade use,0.52122319855564
+bigram,upgrade improvements,0.52122319855564
+bigram,services namespace,0.52122319855564
+bigram,cluster lock,0.52122319855564
+bigram,upgrade cluster,0.52122319855564
+bigram,related legacy,0.52122319855564
+bigram,dependencies longer,0.52122319855564
+bigram,lose dependencies,0.52122319855564
+bigram,upgrade lose,0.52122319855564
+bigram,namespace handler,0.52122319855564
+bigram,metadata object,0.52122319855564
+bigram,region cleanup,0.52122319855564
+bigram,deprecated extends,0.52122319855564
+bigram,specific dependency,0.52122319855564
+bigram,cleanup descriptor,0.52122319855564
+bigram,commit cleanup,0.519896566891541
+trigram,move client class,0.688083693182083
+trigram,class client package,0.620860012331952
+trigram,improvement class loading,0.59985740221915
+trigram,late library improvement,0.59985740221915
+trigram,library improvement class,0.544993329823855
+trigram,use late library,0.544993329823855
+trigram,upgrade use late,0.544993329823855
+trigram,nice could upgrade,0.544993329823855
+trigram,could upgrade use,0.544993329823855
+trigram,rest client release,0.544993329823855
+trigram,current transport client,0.541214239338265
+trigram,level rest client,0.526634158300869
+trigram,client instead new,0.526634158300869
+trigram,high level rest,0.526634158300869
+trigram,support basic authentication,0.504297362462153
+trigram,upgrade improvements loading,0.484572683772693
+trigram,upgrade cluster lock,0.484572683757359
+trigram,lose dependencies longer,0.484572683757359
+trigram,upgrade lose dependencies,0.484572683757359
+trigram,refactor manifest deployment,0.484572683757359
+trigram,refactor modularize big,0.484572683756063
+trigram,separate refactor manifest,0.468472263714823
+trigram,broken architecture broker,0.466112553935526
+trigram,avoid maintenance effort,0.466112553935526
+trigram,model avoid maintenance,0.46018714282841
+trigram,increase maintenance effort,0.46018714282841
+trigram,maintenance effort check,0.434505425967036

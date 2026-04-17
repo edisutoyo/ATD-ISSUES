@@ -1,0 +1,72 @@
+ngram_type,keyword,CS_KeyBERT_score
+unigram,move,2.452451
+unigram,refactor,2.272646
+unigram,remove,1.829383
+unigram,dependency,1.758375
+unigram,couple,1.434693
+unigram,update,1.409149
+unigram,improve,1.333961
+unigram,relocate,1.291621
+unigram,transfer,1.248018
+unigram,migrate,1.125821
+unigram,problem,0.954614
+unigram,increase,0.940396
+unigram,extend,0.893462
+unigram,depend,0.85954
+unigram,change,0.796709
+unigram,upgrade,0.760631
+unigram,remove,0.754335
+unigram,refactor,0.731678
+unigram,module,0.722442
+unigram,update,0.713435
+unigram,decouple,0.645278
+unigram,deprecated,0.644858
+unigram,compatible,0.640876
+unigram,migrate,0.61848
+unigram,library,0.618062
+unigram,replace,0.615619
+bigram,specific dependency,0.861565
+bigram,refactor code,0.861565
+bigram,dependency need,0.861565
+bigram,stuff dependency,0.707107
+bigram,dependency specification,0.707107
+bigram,dependency good,0.707107
+bigram,dependency version,0.678167
+bigram,dependency exist,0.57735
+bigram,upgrade dependency,0.57735
+bigram,class refactor,0.57735
+bigram,remove dependency,0.549232
+bigram,try depend,0.458666
+bigram,cyclic dependency,0.447214
+bigram,need update,0.447214
+bigram,version need,0.447214
+bigram,remove cluster,0.447214
+bigram,upgrade remove,0.447214
+bigram,currently missing,0.447214
+bigram,dependency version,0.408248
+bigram,version latest,0.408248
+bigram,missing obviously,0.408248
+bigram,missing classes,0.408248
+trigram,independent indirect dependency,0.707107
+trigram,need late version,0.707107
+trigram,outdated include exception,0.707107
+trigram,dependency version need,0.5
+trigram,stuff dependency need,0.5
+trigram,specific dependency version,0.5
+trigram,dependency good place,0.5
+trigram,create cyclic dependency,0.5
+trigram,old package depend,0.5
+trigram,indirect dependency exist,0.5
+trigram,package outdated include,0.447214
+trigram,release year old,0.447214
+trigram,turn package outdated,0.447214
+trigram,look dependency package,0.447214
+trigram,hard work update,0.447214
+trigram,remove cluster lock,0.447214
+trigram,upgrade remove cluster,0.408248
+trigram,currently missing classes,0.377964
+trigram,dependency version latest,0.377964
+trigram,doesn specific dependency,0.377964
+trigram,using currently missing,0.377964
+trigram,configure return remove,0.377964
+trigram,remove windows dependency,0.371391
